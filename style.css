@@ -8,6 +8,7 @@ canvas {
   height: 100%;
 }
 
+
 #info {
 	position: absolute;
 	top: 50px;
@@ -17,7 +18,7 @@ canvas {
 	display:block;
   color: #F8F0F3;
   font-size: 160px;
-  font-family: "Fantasy";
+  font-family: "Tangerine";
   -webkit-text-stroke-width: 2px;
   -webkit-text-stroke-color: black;
 }
