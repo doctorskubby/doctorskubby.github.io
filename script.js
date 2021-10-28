@@ -17,9 +17,9 @@ function createScene() {
   const scene = new Three.Scene();
   const textureLoader = new Three.CubeTextureLoader();
   const textureCube = textureLoader.load( [
-'https://raw.githubusercontent.com/jlankitus/nftestes/master/test/2.jpg', 'https://raw.githubusercontent.com/jlankitus/nftestes/master/test/2.jpg',
-'https://raw.githubusercontent.com/jlankitus/nftestes/master/test/2.jpg', 'https://raw.githubusercontent.com/jlankitus/nftestes/master/test/2.jpg',
-'https://raw.githubusercontent.com/jlankitus/nftestes/master/test/2.jpg', 'https://raw.githubusercontent.com/jlankitus/nftestes/master/test/2.jpg'
+'https://raw.githubusercontent.com/doctorskubby/nftestes/master/test/Cubes4.jpg', 'https://raw.githubusercontent.com/doctorskubby/nftestes/master/test/Cubes4.jpg',
+'https://raw.githubusercontent.com/doctorskubby/nftestes/master/test/Cubes4.jpg', 'https://raw.githubusercontent.com/doctorskubby/nftestes/master/test/Cubes4.jpg',
+'https://raw.githubusercontent.com/doctorskubby/nftestes/master/test/Cubes4.jpg', 'https://raw.githubusercontent.com/doctorskubby/nftestes/master/test/Cubes4.jpg'
 ] );
   scene.background = textureCube;
   
