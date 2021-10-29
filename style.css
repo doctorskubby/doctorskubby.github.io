@@ -22,3 +22,16 @@ canvas {
   -webkit-text-stroke-width: 2px;
   -webkit-text-stroke-color: black;
 }
+
+#link {
+  position: absolute;
+  bottom: 50px;
+  width: 100%;
+  text-align: center;
+  z-index: 100;
+  color: #F8F0F3;
+  font-size: 100px;
+  font-family: "Montserrat";
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: black;
+}
